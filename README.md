@@ -10,7 +10,7 @@ Features
 
 - Convert audio to text using Whisper
 
-- Generate structured MoM using Gemini-2.5-flash (agenda, key points, decisions, action items, risks)
+- Generate structured MoM using Gemini-2.5-flash (agenda, key points, decisions, action items, risks) [ Used google AI Studio for API key ]
 
 - Interactive Streamlit UI for uploading recordings and viewing output
 
